@@ -6,11 +6,14 @@
 }
 
 body {
-    background: pink;
+    /*background: pink;*/
 }
 
 @media screen and (min-width: 800px) {
     body {
-        background: orange;
+        /*background: orange;*/
     }
+}
+.help {
+    display: none;
 }
